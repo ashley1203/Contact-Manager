@@ -1,0 +1,70 @@
+{
+  "contacts": [
+    {
+      "id": "0e58a630-64fd-4bb4-bfd2-56d7e33e7670",
+      "name": "Rajan",
+      "imageUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+      "email": "rajan@gmail.com",
+      "mobile": "9878675654",
+      "company": "HCL",
+      "title": "Sr. Software Engineer",
+      "groupId": "fdb8dc62-296c-45da-8be3-c67b868268ac"
+    },
+    {
+      "id": "eda03226-8fc9-4a13-a413-010ef249b36d",
+      "name": "Ajit",
+      "imageUrl": "https://pub-static.fotor.com/assets/projects/pages/d5bdd0513a0740a8a38752dbc32586d0/fotor-03d1a91a0cec4542927f53c87e0599f6.jpg",
+      "email": "ajit@gmail.com",
+      "mobile": "9685909049",
+      "company": "Intuit",
+      "title": "SDE2",
+      "groupId": "fdb8dc62-296c-45da-8be3-c67b868268ac"
+    },
+    {
+      "id": "0e58a630-64fd-4bb4-bfd2-56d7e33e7671",
+      "name": "Bhupender",
+      "imageUrl": "https://www.goodmorningimagesdownload.com/wp-content/uploads/2021/12/Best-Quality-Profile-Images-Pic-Download-2023.jpg",
+      "email": "bhupi@gmail.com",
+      "mobile": "9878675678",
+      "company": "DE Shaw",
+      "title": "Sr. Software Engineer",
+      "groupId": "498d0504-80ba-4dcd-9364-5b9502174621"
+    },
+    {
+      "name": "Ashley Mao",
+      "imageUrl": "https://www.shutterstock.com/image-vector/simple-illustration-avatar-icon-that-260nw-2274712941.jpg",
+      "email": "maoash12@gmail.com",
+      "mobile": "7083440247",
+      "company": "accenture",
+      "title": "sde2",
+      "groupId": "1e1d48ae-30eb-4ccc-81ba-d28155ca6b40",
+      "id": "HT2brfK"
+    }
+  ],
+  "groups": [
+    {
+      "id": "ac550375-7239-4c66-a76a-743ba9151dca",
+      "name": "Family"
+    },
+    {
+      "id": "fdb8dc62-296c-45da-8be3-c67b868268ac",
+      "name": "Collegue"
+    },
+    {
+      "id": "498d0504-80ba-4dcd-9364-5b9502174621",
+      "name": "Friend"
+    },
+    {
+      "id": "1e1d48ae-30eb-4ccc-81ba-d28155ca6b40",
+      "name": "Social"
+    },
+    {
+      "id": "c5b25cd5-67dc-4371-b06f-f61ebf7c986f",
+      "name": "Service"
+    },
+    {
+      "id": "d479c36e-d564-48a3-ab58-0c4337a09a2a",
+      "name": "Community"
+    }
+  ]
+}
