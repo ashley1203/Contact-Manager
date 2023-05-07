@@ -1,0 +1,10 @@
+
+body {
+    background-color: #e1d6d0 !important;
+}
+
+.img-list {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
